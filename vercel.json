@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!validation-key\\.txt).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
