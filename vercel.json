@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/((?!validation-key\\.txt).*)",
+      "source": "/((?!validation-key\\.txt|privacy\\.html|terms\\.html).*)",
       "destination": "/index.html"
     }
   ]
